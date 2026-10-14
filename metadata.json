@@ -1,0 +1,6 @@
+{
+  "name": "Приглашение на свидание | SiSi Food & Friends",
+  "description": "Интерактивное приглашение на свидание с картой локации SiSi Food & Friends, расчетом маршрута, подтверждением участия и добавлением в Google Календарь.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
